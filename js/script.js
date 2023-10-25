@@ -15,7 +15,6 @@ function verificarInput(){
     input.forEach(campos => {
         if(campos.value.trim() === '' || campos.validity.tooShort){
             todosPreenchidos = false
-            console.log('Deu ruim')
             return
         }
     });
