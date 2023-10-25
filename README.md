@@ -15,4 +15,4 @@
   🔐 **Validação Dupla**: Implementei JavaScript para criar uma validação dupla nos campos de login. Agora, o botão "Entrar" só fica acessível se o usuário preencher ambos os campos de login, proporcionando maior segurança e prevenindo login sem informações adequadas.
 
 <h3>✅ Acessar o Projeto:</h3>
-  Se você estiver interessado em conferir a página fique à vontade para acessar o link abaixo.
+  Se você estiver interessado em conferir a página fique à vontade para acessar o link na seção de "About".
