@@ -1,5 +1,3 @@
-Reprodução da tela de login do Instagram para fins de prática com base nas aulas do curso de Formação Front-End
-
 <h1>Projeto de reprodução da Tela de Login do Instagram</h1>
 
 <h2>🚀 Desenvolvi minha própria página de login responsiva inspirada no Instagram!</h2>
