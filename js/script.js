@@ -6,12 +6,11 @@ input.forEach(campos =>{
 })
 
 function verificarInput(){
-    let todosPreenchidos = true;
+    let todosPreenchidos = true
 
     input.forEach(campos =>{
         if(campos.value.trim() === ''){
             todosPreenchidos = false
-            console.log('erro')
             return
         }
     });
